@@ -235,7 +235,9 @@ C:\repos\mistake-on-the-lake\BerkeleyUni\Startup.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Controllers\AccountController.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Controllers\HomeController.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Controllers\ManageController.cs
+C:\repos\mistake-on-the-lake\BerkeleyUni\Controllers\StudentsController.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Data\ApplicationDbContext.cs
+C:\repos\mistake-on-the-lake\BerkeleyUni\Data\DbInitializer.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Data\SchoolContext.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Data\Migrations\00000000000000_CreateIdentitySchema.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs
