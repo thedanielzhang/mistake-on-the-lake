@@ -236,10 +236,14 @@ C:\repos\mistake-on-the-lake\BerkeleyUni\Controllers\AccountController.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Controllers\HomeController.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Controllers\ManageController.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Data\ApplicationDbContext.cs
+C:\repos\mistake-on-the-lake\BerkeleyUni\Data\SchoolContext.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Data\Migrations\00000000000000_CreateIdentitySchema.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Data\Migrations\ApplicationDbContextModelSnapshot.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Models\ApplicationUser.cs
+C:\repos\mistake-on-the-lake\BerkeleyUni\Models\Course.cs
+C:\repos\mistake-on-the-lake\BerkeleyUni\Models\Enrollment.cs
+C:\repos\mistake-on-the-lake\BerkeleyUni\Models\Student.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Models\AccountViewModels\ForgotPasswordViewModel.cs
 C:\repos\mistake-on-the-lake\BerkeleyUni\Models\AccountViewModels\LoginViewModel.cs
